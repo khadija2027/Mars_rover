@@ -13,7 +13,7 @@ The machine performs:
 ---
 
 ## 🛠️ Hardware Components
-
+![Alt text](Circuit.png)
 - 🧠 **RAMPS 1.4** controller board
 - 🔥 **Heated extruder**
 - ⚙️ **Stepper motor (X-axis)** for filament movement
